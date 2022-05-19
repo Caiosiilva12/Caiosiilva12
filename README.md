@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou o Caiosiilva12
 - 📚 Estudante de Ciência da Computação
-- 🌱 Estou aprendendo Linguagem de Programação Python 3
+- 🌱 Aprendendo Linguagem de Programação Python 3
 - 📫 contato: caiosiilva12@gmail.com
 
 <!---
